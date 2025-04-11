@@ -1,3 +1,4 @@
 # Research
 
-This is where I will capture my research into existing blogs.
+## Links to existing blogs for inspiration
+- [Chen Hui Jing](https://chenhuijing.com)
